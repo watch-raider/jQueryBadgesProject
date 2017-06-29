@@ -8,5 +8,5 @@ $(function() {
       // handle response
       console.log('response');
     }
-  })
+  });
 });
