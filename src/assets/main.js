@@ -1,7 +1,7 @@
 $(function() {
 
   // your code will go here
-  $.ajax({
+  jQuery.ajax({
     url: 'https://www.codeschool.com/users/advancedInnovation.json',
     dataType: 'jsonp',
     success: function(response) {
